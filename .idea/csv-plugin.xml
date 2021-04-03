@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/AnswerDeleteResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/AnswerDetailsResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/AnswerEditRequest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/AnswerEditResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/AnswerRequest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/AnswerResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/ErrorResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/QuestionDetailsResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/QuestionEditRequest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/QuestionRequest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/QuestionResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/SigninResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/SignoutResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/SignupUserRequest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/SignupUserResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/UserDeleteResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/main/java/com/upgrad/quora/api/model/UserDetailsResponse.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/test/java/com/upgrad/quora/api/controller/AdminControllerTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/test/java/com/upgrad/quora/api/controller/AnswerControllerTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/test/java/com/upgrad/quora/api/controller/CommonControllerTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/quora-api/src/test/java/com/upgrad/quora/api/controller/UserControllerTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
